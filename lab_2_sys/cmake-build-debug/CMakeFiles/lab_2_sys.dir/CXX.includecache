@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/micha/Documents/programming/code/cpp/labs/lab_2_sys/main.cpp
+cstdio
+-
+cstdlib
+-
+iostream
+-
+winsock2.h
+-
+
