@@ -1,4 +1,0 @@
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_1_sys/cmake-build-debug/CMakeFiles/hidapi.dir
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_1_sys/cmake-build-debug/CMakeFiles/lab_1_sys.dir
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_1_sys/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_1_sys/cmake-build-debug/CMakeFiles/rebuild_cache.dir

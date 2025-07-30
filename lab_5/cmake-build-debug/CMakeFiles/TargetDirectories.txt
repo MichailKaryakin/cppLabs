@@ -1,3 +1,0 @@
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_5/cmake-build-debug/CMakeFiles/lab_5.dir
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/micha/Documents/programming/code/cpp/labs/lab_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

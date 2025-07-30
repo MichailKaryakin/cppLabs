@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libhidapi.a CMakeFiles/hidapi.dir/hidapi/hid.c.obj
-C:\MinGW\bin\ranlib.exe libhidapi.a

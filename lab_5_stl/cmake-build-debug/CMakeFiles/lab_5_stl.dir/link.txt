@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lab_5_stl.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\lab_5_stl.dir/objects.a @CMakeFiles\lab_5_stl.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\lab_5_stl.dir/objects.a -Wl,--no-whole-archive -o lab_5_stl.exe -Wl,--out-implib,liblab_5_stl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab_5_stl.dir\linklibs.rsp
